@@ -2,14 +2,14 @@
   "name": "jabcode-worker",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
-  "author": "",
+  "license": "The Unlicense",
+  "author": "ɛʟʟɨօȶ b  =^._.^= ∫",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
+  "devDependencies": {
     "wrangler": "^4.152.0"
   }
 }
