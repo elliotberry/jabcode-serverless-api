@@ -399,6 +399,3 @@ To use a custom domain or route, add a `routes` entry to `wrangler.toml`
   (LGPL-2.1 at the time of writing; verify the licence of the version you compiled and your
   obligations when distributing the wasm binary).
 - JAB Code is specified in ISO/IEC 23634:2022.
-
-This repository's own code is currently unlicensed (`package.json` says `ISC` by default from
-`npm init`); choose and add a `LICENSE` file before publishing.
